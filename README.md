@@ -1,6 +1,7 @@
 # Motor-Fault-Analyser
 
-ABSTRACT:\n
+ABSTRACT:
+
 Stator current analysis has become a well-established approach for fault detection in induction 
 motors, employed in both research and industrial applications. This project presents the results of a 
 hardware-based study using current signal analysis to detect bearing faults in a three-phase induction 
@@ -23,7 +24,7 @@ https://motorfaultanalyser.netlify.app/
 APP LINK:
 https://drive.google.com/file/d/1rHF7O7k_O-Nkvys4gasZxh4hvMTtbNbw/view?usp=drive_link
 
-Guidelines for using the app:/n
+Guidelines for using the app:
 1. Download the MATLAB application from the provided drive link.
 2. Collect Healthy and Input motor current signals in CSV file format.
 3. Ensure that all these files are present in same directory.
